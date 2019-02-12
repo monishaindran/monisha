@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>prg13</title>
+<link rel="stylesheet" type="text/css" href="prg13.css"media="all"/>
+</head>
+<body>
+<ul>
+<li><a href="prg4.html">home</li>
+<li><a href="prg6.html">contact</li>
+<li><a href="prg7.html">about us</li>
+<li><a href="prg5.html">news</li>
+</ul>
+</body>
+</html>
